@@ -6,7 +6,7 @@ UwU
 
 ### AR.js NFT Demo
 
-Scan the QR Code or click [here](https://navanchauhan.github.io/Experiments/2020-08-01/index.html) and scan my profile picture! ( It does take some time to calculat e the image descriptors the first time though, try reloading if you think it is stuck )
+Scan the QR Code or click [here](https://navanchauhan.github.io/Experiments/2020-08-01/index.html) and scan my profile picture! ( It does take some time to calculate the image descriptors the first time though, try reloading if you think it is stuck )
 
 
 ![](qr.png)
