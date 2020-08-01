@@ -1,8 +1,11 @@
-# Hello there 👋
+# Hi 👋
 
 ![](hello-there.gif)
 
-UwU
+- 🌍 https://navanchauhan.github.io
+- ✉️ navanchauhan@github.io
+- 🔭 AI/ML, AR, Cheminfomatics
+- 🌱 Python, Swift and HTML+CSS+JS
 
 ### AR.js NFT Demo
 
