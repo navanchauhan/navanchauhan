@@ -1,6 +1,6 @@
 # Hi 👋
 
-![](hello-there.gif)
+<img src="hello-there.gif"/>
 
 - 🌍 https://navanchauhan.github.io
 - ✉️ navanchauhan@github.io
@@ -12,7 +12,7 @@
 Scan the QR Code or click [here](https://navanchauhan.github.io/Experiments/2020-08-01/index.html) and scan my profile picture! ( It does take some time to calculate the image descriptors the first time though, try reloading if you think it is stuck )
 
 
-![](qr.png)
+<img src="qr.png" />
 
 
 <!--
