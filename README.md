@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/navanchauhan/navanchauhan/master/hello-there.gif"/>
 
-- 🌍 https://navanchauhan.github.io
+- 🌍 https://blog.navan.dev
 - ✉️ navanchauhan@gmail.com
 - 🔭 AI/ML, AR, Cheminfomatics
 - 🌱 Python, Swift and HTML+CSS+JS
