@@ -3,7 +3,8 @@
 <img src="https://raw.githubusercontent.com/navanchauhan/navanchauhan/master/hello-there.gif"/>
 
 - 🌍 [https://blog.navan.dev](https://blog.navan.dev)
-- ✉️ [navanchauhan@gmail.com](mailto:navanchauhan@gmail.com)
+- ✉️ 1: [hello@navan.dev](mailto:hey@navan.dev)
+- ✉️ 2: [navanchauhan@gmail.com](mailto:navanchauhan@gmail.com)
 - 🔭 AI/ML, AR, Cheminfomatics
 - 🌱 Python, Swift and HTML+CSS+JS
 
