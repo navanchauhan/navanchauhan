@@ -1,4 +1,4 @@
-<img alt="Random Image from Unsplash" src="https://source.unsplash.com/random/1500x500/?landscape,nature,sky,water"/>
+<img alt="Random Image from Unsplash" src="https://source.unsplash.com/random/1500x500/?landscape,nature,sky,water,astronomy"/>
 
 # Hi 👋
 
@@ -7,7 +7,7 @@
 - 🌍 Main Website: [https://web.navan.dev](https://web.navan.dev)
 - ✉️ 1: [hello@navan.dev](mailto:hey@navan.dev)
 - ✉️ 2: [navanchauhan@gmail.com](mailto:navanchauhan@gmail.com)
-- 🧪 Curie-Web: [https://curie.navan.dev](https://curie.navan.dev)
+- 🧪 Curie-Web: [https://navanspi.duckdns.org:7589](https://navanspi.duckdns.org:7589)
 
 ### AR.js NFT Demo
 
