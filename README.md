@@ -15,7 +15,7 @@
 
 ### AR.js NFT Demo
 
-> NFT = Natural Feature Tracking
+> NFT == Natural Feature Tracking
 > 
 > NFT != Non-Fungible Tokens
 
