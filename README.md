@@ -1,15 +1,23 @@
-<img alt="Random Image from Unsplash" src="https://source.unsplash.com/random/1500x500/?landscape,nature,sky,water,astronomy"/>
-
 # Hi 👋
+
+
 
 - 🔭 AI/ML, AR, Cheminfomatics
 - 🌱 Python, Swift and HTML+CSS+JS
-- 🌍 Main Website: [https://web.navan.dev](https://web.navan.dev)
-- ✉️ 1: [hello@navan.dev](mailto:hey@navan.dev)
+- 🌍 Website: [https://web.navan.dev](https://web.navan.dev)
+- ✉️ 1: [hello@navan.email](mailto:hello@navan.email)
 - ✉️ 2: [navanchauhan@gmail.com](mailto:navanchauhan@gmail.com)
-- 🧪 Curie-Web: [https://navanspi.duckdns.org:7589](https://navanspi.duckdns.org:7589)
+
+### Apps on the App Store
+
+- [iGopherBrowser](https://web.navan.dev/iGopherBrowser): A modern Gopher client for iOS, macOS, and VisionOS
+- [TimeSlicerX](https://timeslicerx.prudent.studio/): A timeboxing app for iOS (and macOS) to schedule tasks around your calendar items
 
 ### AR.js NFT Demo
+
+> NFT = Natural Feature Tracking
+> 
+> NFT != Non-Fungible Tokens
 
 Scan the QR Code or click [here](https://navanchauhan.github.io/Experiments/2020-08-01/index.html) and scan [my profile picture!](https://github.com/navanchauhan) ( It does take some time to calculate the image descriptors the first time though, try reloading if you think it is stuck )
 
